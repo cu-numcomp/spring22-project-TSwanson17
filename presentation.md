@@ -2,7 +2,9 @@
 
 ## Links
 
-https://joss.theoj.org/papers/10.21105/joss.03318
+https://joss.theoj.org/papers/10.21105/joss.03318   
+https://github.com/radioactivedecay/radioactivedecay
 
-## What is it?
-radioactivedecay is a Python package for modelling radioactive decay. It find analytical solutions for decay chain differential equations in matrix forms
+## Purpose
+radioactivedecay is a Python package for modelling radioactive decay. It find analytical solutions for decay chain differential equations in matrix form. 
+
