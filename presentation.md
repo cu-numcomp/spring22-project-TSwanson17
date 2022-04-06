@@ -9,7 +9,7 @@ https://github.com/radioactivedecay/radioactivedecay
 Radioactivedecay is a Python package for modeling radioactive decay. In particular, it offers functionality for calculating the decay chains that have ranching decays and metastable nuclear isomers with high numerical precision. It finds analytical solutions for decay chain differential equations in matrix form. The package models natural radioactive decay processes by multiplying an initial condition by a sparse matrix that represents a differential equation. The process is laid out in the following excerpt from the documentation.
 
 
-![](img/rdjoc.png)
+![](img/rdjoc.PNG)
 
 
 ## Stakeholders
